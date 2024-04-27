@@ -32,6 +32,8 @@
 - [Conceitos Fundamentais de IA](../m01/fundamentos-ia.md)
 - [Fundamentos do Aprendizado de Máquina](../m02/fundamentos-aprendizado-maquina.md)
   - [Labs - Trabalhando com Machine Learning na Prática no Azure ML](../m02/labs/laboratorio-aprendizado-maquina.md)
+- [Conceitos de Visão Computacional](../m03/conceitos-visao-computacional.md)
+  - [Labs - Reconhecimento Facial e transformação de imagens em Dados no Azure ML](../m03/labs/laboratorio-visao-computacional.md)
 
 ## 🔧 Ferramentas
 
