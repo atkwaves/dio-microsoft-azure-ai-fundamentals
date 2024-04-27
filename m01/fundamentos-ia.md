@@ -1,7 +1,10 @@
 <h1>
     <a href="https://www.dio.me/">
-     <img align="center" width="40px" src="https://hermes.dio.me/courses/badge/3ba1d337-ed1b-449c-bcf2-7863afcb9c7c.png"></a>
-    <span> Conceitos Fundamentais de IA</span>
+     <img align="center" width="64px" src="https://hermes.dio.me/courses/badge/3ba1d337-ed1b-449c-bcf2-7863afcb9c7c.png">
+    </a>
+    <span>
+        Conceitos Fundamentais de IA
+    </span>
 </h1>
 
 ## Cargas de Trabalho Comuns de IA
@@ -31,7 +34,7 @@ Capacidade da IA para extrair informações de grandes volumes de dados muitas v
 
 **<center>**INGERIR, ENRIQUECER E EXPLORAR**</center>**
 
-![enter image description here](https://learn.microsoft.com/en-us/azure/architecture/solution-ideas/media/knowledge-mining-content-research.png#lightbox)
+![](../img/m01-img01.png)
 
 ### IA Generativa
 Recurso de IA que criam conteúdo original em vários formatos, incluindo linguagem natural, imagem, código e muito mais.
@@ -46,8 +49,3 @@ Recurso de IA que criam conteúdo original em vários formatos, incluindo lingua
 |**Inclusão**|As soluções podem não funcionar para todos.|Um aplicativo preditivo não fornece saída de áudio para usuários com deficiência visual.           |
 |**Transparência**|Os usuários devem confiar em um sistema complexo.|Uma ferramenta financeira baseada em IA faz recomendações de investimento - em que se baseiam?           |
 |**Responsabilidade**|Quem é responsável pelas decisões baseadas na IA?|Uma pessoa inocente é condenada por um crime com base em provas de reconhecimento facial - quem é o responsável?          |
-
-## Ferramentas
-<a href="https://learn.microsoft.com/pt-br/azure">
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" width="40" height="40" alt="Azure Icon">
-</a>
