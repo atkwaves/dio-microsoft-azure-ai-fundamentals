@@ -36,6 +36,8 @@
   - [Labs - Reconhecimento Facial e transformação de imagens em Dados no Azure ML](../m03/labs/laboratorio-visao-computacional.md)
 - [Conceitos de Processamento de Linguagem Natural](../m04/conceitos-processamento-linguagem-natural.md)
   - [Labs - Análise de Sentimentos com Language Studio no Azure AI](../m04/labs/laboratorio-processamento-linguagem-natural.md)
+- [Inteligência de Documentos de IA do Azure](../m05/inteligencia-documentos-ia-azure.md)
+  - [Labs - Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados](../m05/labs/laboratorio-inteligencia-documentos-ia-azure.md)
 
 ## 🔧 Ferramentas
 
