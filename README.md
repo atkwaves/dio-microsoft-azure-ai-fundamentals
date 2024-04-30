@@ -34,6 +34,8 @@
   - [Labs - Trabalhando com Machine Learning na Prática no Azure ML](../m02/labs/laboratorio-aprendizado-maquina.md)
 - [Conceitos de Visão Computacional](../m03/conceitos-visao-computacional.md)
   - [Labs - Reconhecimento Facial e transformação de imagens em Dados no Azure ML](../m03/labs/laboratorio-visao-computacional.md)
+- [Conceitos de Processamento de Linguagem Natural](../m04/conceitos-processamento-linguagem-natural.md)
+  - [Labs - Análise de Sentimentos com Language Studio no Azure AI](../m04/labs/laboratorio-processamento-linguagem-natural.md)
 
 ## 🔧 Ferramentas
 
