@@ -38,6 +38,8 @@
   - [Labs - Análise de Sentimentos com Language Studio no Azure AI](../m04/labs/laboratorio-processamento-linguagem-natural.md)
 - [Inteligência de Documentos de IA do Azure](../m05/inteligencia-documentos-ia-azure.md)
   - [Labs - Azure Cognitive Search: Utilizando AI Search para indexação e consulta de Dados](../m05/labs/laboratorio-inteligencia-documentos-ia-azure.md)
+- [Fundamentos da IA Generativa e Serviço Azure OpenAI](../m06/fundamentos-ia-generativa-servico-azure-openai.md)
+  - [Labs - Explorando os Recursos de IA Generativa com Copilot e OpenAI](../m06/labs/laboratorio-ia-generativa-servico-azure-openai.md)
 
 ## 🔧 Ferramentas
 
