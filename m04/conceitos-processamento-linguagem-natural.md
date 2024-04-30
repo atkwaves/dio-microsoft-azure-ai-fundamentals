@@ -1,0 +1,47 @@
+<h1>
+    <a href="https://www.dio.me/">
+     <img align="center" width="64px" src="https://hermes.dio.me/courses/badge/a3fdb205-88b5-4838-bfda-a7231e94e6e0.png">
+    </a>
+    <span>
+      Processamento de Linguagem Natural
+    </span>
+</h1>
+
+## 📜 Sumário
+
+- [Entenda a Análise de Texto](https://learn.microsoft.com/pt-br/training/modules/analyze-text-with-text-analytics-service/2-understand-text-analytics#:~:text=Entenda%20a%20An%C3%A1lise%20de%20Texto)
+  - [Geração de tokens](https://learn.microsoft.com/pt-br/training/modules/analyze-text-with-text-analytics-service/2-understand-text-analytics#:~:text=do%20seu%20conte%C3%BAdo.-,Gera%C3%A7%C3%A3o%20de%20tokens,-A%20primeira%20etapa)
+  - [Análise de frequência](https://learn.microsoft.com/pt-br/training/modules/analyze-text-with-text-analytics-service/2-understand-text-analytics#:~:text=o%20mesmo%20token.-,An%C3%A1lise%20de%20frequ%C3%AAncia,-Depois%20de%20gerar)
+  - [Machine learning para classificação de texto](https://learn.microsoft.com/pt-br/training/modules/analyze-text-with-text-analytics-service/2-understand-text-analytics#:~:text=Machine%20learning%20para%20classifica%C3%A7%C3%A3o%20de%20texto)
+  - [Modelos de linguagem semântica](https://learn.microsoft.com/pt-br/training/modules/analyze-text-with-text-analytics-service/2-understand-text-analytics#:~:text=Modelos%20de%20linguagem%20sem%C3%A2ntica)
+- [Introdução à análise de texto](https://learn.microsoft.com/pt-br/training/modules/analyze-text-with-text-analytics-service/3-get-started-azure#:~:text=Introdu%C3%A7%C3%A3o%20%C3%A0%20an%C3%A1lise%20de%20texto)
+  - [Reconhecimento e vinculação de entidades](https://learn.microsoft.com/pt-br/training/modules/analyze-text-with-text-analytics-service/3-get-started-azure#:~:text=Reconhecimento%20e%20vincula%C3%A7%C3%A3o%20de%20entidades)
+  - [Detecção de idioma](https://learn.microsoft.com/pt-br/training/modules/analyze-text-with-text-analytics-service/3-get-started-azure#:~:text=DateRange-,Detec%C3%A7%C3%A3o%20de%20idioma,-Use%20a%20funcionalidade)
+  - [Análise de Sentimento e a mineração de opiniões](https://learn.microsoft.com/pt-br/training/modules/analyze-text-with-text-analytics-service/3-get-started-azure#:~:text=An%C3%A1lise%20de%20Sentimento%20e%20a%20minera%C3%A7%C3%A3o%20de%20opini%C3%B5es)
+  - [Extração de frases-chave](https://learn.microsoft.com/pt-br/training/modules/analyze-text-with-text-analytics-service/3-get-started-azure#:~:text=Pontua%C3%A7%C3%A3o%20negativa%3A%200%2C99-,Extra%C3%A7%C3%A3o%20de%20frases%2Dchave,-A%20extra%C3%A7%C3%A3o%20de)
+  - [Crie um recurso para a Linguagem de IA do Azure](https://learn.microsoft.com/pt-br/training/modules/analyze-text-with-text-analytics-service/3-get-started-azure#:~:text=Crie%20um%20recurso%20para%20a%20Linguagem%20de%20IA%20do%20Azure)
+- [Entender respostas às perguntas](https://learn.microsoft.com/pt-br/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/2-understand-question-answering?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.explore-natural-language-processing#:~:text=Entender%20respostas%20%C3%A0s%20perguntas)
+- [Introdução ao serviço de Linguagem e ao Serviço de Bot do Azure](https://learn.microsoft.com/pt-br/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/3-get-started-knowledge-base#:~:text=Introdu%C3%A7%C3%A3o%20ao%20servi%C3%A7o%20de%20Linguagem%20e%20ao%20Servi%C3%A7o%20de%20Bot%20do%20Azure)
+  - [Criar uma base de dados de conhecimento de respostas às perguntas personalizadas](https://learn.microsoft.com/pt-br/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/3-get-started-knowledge-base#:~:text=Criar%20uma%20base%20de%20dados%20de%20conhecimento%20de%20respostas%20%C3%A0s%20perguntas%20personalizadas)
+    - [Definir perguntas e respostas](https://learn.microsoft.com/pt-br/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/3-get-started-knowledge-base#:~:text=Definir%20perguntas%20e%20respostas)
+    - [Testar o projeto](https://learn.microsoft.com/pt-br/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/3-get-started-knowledge-base#:~:text=sede%20est%C3%A1%20localizada%3F-,Testar%20o%C2%A0projeto,-Depois%20de%20criar)
+  - [Criar um bot com o Serviço de Bot de IA do Azure](https://learn.microsoft.com/pt-br/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/3-get-started-knowledge-base#:~:text=Criar%20um%20bot%20com%20o%20Servi%C3%A7o%20de%20Bot%20de%20IA%20do%20Azure)
+    - [Conectar canais](https://learn.microsoft.com/pt-br/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/3-get-started-knowledge-base#:~:text=apenas%20alguns%20cliques.-,Conectar%20canais,-Quando%20o%20bot)
+- [Descrever a compreensão da linguagem coloquial](https://learn.microsoft.com/pt-br/training/modules/create-language-model-with-language-understanding/2-describe-language-understanding?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.explore-natural-language-processing#:~:text=Descrever%20a%20compreens%C3%A3o%20da%20linguagem%20coloquial)
+  - [Declarações](https://learn.microsoft.com/pt-br/training/modules/create-language-model-with-language-understanding/2-describe-language-understanding?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.explore-natural-language-processing#:~:text=e%20inten%C3%A7%C3%B5es.-,Declara%C3%A7%C3%B5es,-Enunciado%20%C3%A9%20um)
+  - [Entidades](https://learn.microsoft.com/pt-br/training/modules/create-language-model-with-language-understanding/2-describe-language-understanding?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.explore-natural-language-processing#:~:text=as%20luzes.%22-,Entidades,-Uma%20entidade%20%C3%A9)
+  - [Intenções](https://learn.microsoft.com/pt-br/training/modules/create-language-model-with-language-understanding/2-describe-language-understanding?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.explore-natural-language-processing#:~:text=do%20dispositivo.-,Inten%C3%A7%C3%B5es,-Uma%20inten%C3%A7%C3%A3o%20representa)
+- [Comece a usar a compreensão da linguagem coloquial no Azure](https://learn.microsoft.com/pt-br/training/modules/create-language-model-with-language-understanding/3-get-started#:~:text=Comece%20a%20usar%20a%20compreens%C3%A3o%20da%20linguagem%20coloquial%20no%20Azure)
+  - [Recursos do Azure para compreensão da linguagem coloquial](https://learn.microsoft.com/pt-br/training/modules/create-language-model-with-language-understanding/3-get-started#:~:text=Recursos%20do%20Azure%20para%20compreens%C3%A3o%20da%20linguagem%20coloquial)
+    - [Criação](https://learn.microsoft.com/pt-br/training/modules/create-language-model-with-language-understanding/3-get-started#:~:text=IA%20do%20Azure.-,Cria%C3%A7%C3%A3o,-Depois%20de%20criar)
+      - [Como treinar o modelo](https://learn.microsoft.com/pt-br/training/modules/create-language-model-with-language-understanding/3-get-started#:~:text=Como%20treinar%20o%20modelo)
+    - [Previsão](https://learn.microsoft.com/pt-br/training/modules/create-language-model-with-language-understanding/3-get-started#:~:text=e%20testar%20novamente.-,Previs%C3%A3o,-Quando%20estiver%20satisfeito)
+- [Noções básicas sobre reconhecimento de fala e sintetização de voz](https://learn.microsoft.com/pt-br/training/modules/recognize-synthesize-speech/2-understand-speech?ns-enrollment-type=learningpath&ns-enrollment-id=learn.wwl.explore-natural-language-processing#:~:text=No%C3%A7%C3%B5es%20b%C3%A1sicas%20sobre%20reconhecimento%20de%20fala%20e%20sintetiza%C3%A7%C3%A3o%20de%20voz)
+- [Introdução à Fala no Azure](https://learn.microsoft.com/pt-br/training/modules/recognize-synthesize-speech/3-get-started-azure#:~:text=Introdu%C3%A7%C3%A3o%20%C3%A0%20Fala%20no%20Azure)
+  - [Recursos do Azure para a Fala de IA do Azure](https://learn.microsoft.com/pt-br/training/modules/recognize-synthesize-speech/3-get-started-azure#:~:text=Recursos%20do%20Azure%20para%20a%20Fala%20de%20IA%20do%20Azure)
+  - [A API de Conversão de Fala em Texto](https://learn.microsoft.com/pt-br/training/modules/recognize-synthesize-speech/3-get-started-azure#:~:text=desses%20servi%C3%A7os%20juntos.-,A%20API%20de%20Convers%C3%A3o%20de%20Fala%20em%20Texto,-%C3%89%20poss%C3%ADvel%20usar)
+    - [Transcrição em tempo real](https://learn.microsoft.com/pt-br/training/modules/recognize-synthesize-speech/3-get-started-azure#:~:text=que%20voc%C3%AA%20precisa.-,Transcri%C3%A7%C3%A3o%20em%20tempo%20real,-A%20Convers%C3%A3o%20de)
+    - [Transcrição em lote](https://learn.microsoft.com/pt-br/training/modules/recognize-synthesize-speech/3-get-started-azure#:~:text=o%20texto%20transcrito.-,Transcri%C3%A7%C3%A3o%20em%20lote,-Nem%20todos%20os)
+  - [A API de Conversão de Texto em Fala](https://learn.microsoft.com/pt-br/training/modules/recognize-synthesize-speech/3-get-started-azure#:~:text=estado%20de%20execu%C3%A7%C3%A3o.-,A%20API%20de%20Convers%C3%A3o%20de%20Texto%20em%20Fala,-A%20API%20de)
+    - [Vozes disponíveis na sintetização de voz](https://learn.microsoft.com/pt-br/training/modules/recognize-synthesize-speech/3-get-started-azure#:~:text=Vozes%20dispon%C3%ADveis%20na%20sintetiza%C3%A7%C3%A3o%20de%20voz)
+  - [Idiomas com suporte](https://learn.microsoft.com/pt-br/training/modules/recognize-synthesize-speech/3-get-started-azure#:~:text=Texto%20em%20Fala-,Idiomas%20com%20suporte,-As%20APIs%20de)
